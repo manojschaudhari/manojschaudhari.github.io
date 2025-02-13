@@ -1,1 +1,81 @@
-Sample
+
+
+- Engineering Manager
+- Product Manager
+- Advanced Communication Skills : https://drive.google.com/file/d/14ad9hcV_wN8BK_qTBDdZG2Zj4SRZA1MM/view
+- Communication Skills For Leaders : https://drive.google.com/file/d/1ieB6TM6o7gWP1A6u4SBH4U4h03JCAZqJ/view
+- Introduction to Big Data : https://drive.google.com/file/d/13DJ_uK3CdIxe1MpUrBSzhtS5dSa2AMlV/view
+
+
+
+
+
+# Low-Level Design
+OOPS
+Design Patterns
+UML Diagrams
+Schema
+Design problem
+Machine coding
+
+# High-Level Design
+Architecture Design
+Distributed Systems
+Load Balancer
+Consistent Hashing
+Caching
+Transactions
+SQL vs NoSQL
+Designing Real life Systems
+Microservices
+Distributed queues
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+System Design
+Online Processing Systems
+Batch Processing Systems
+Object Modeling
+
+Ice breakers
+Motivation
+Team and culture
+Project management
+Conflict resolution
+Hiring, firing and promoting
+Sorting
+Recursion
+Trees
+Graphs
+Dynamic Programming
+
+
+
+
+
+
+1. Execute a complete requirements negotiation process.
+2. Perform a comprehensive feasibility analysis.
+3. Lead a software project planning process, to include determining
+deliverables; effort, schedule and cost estimation; resource allocation; risk
+management; quality and plan management.
+4. Apply the principles and processes of software engineering project
+enactment.
+5. Perform software project reviews and evaluations according to best
+practices.
+6. Illustrate by example software project closure activities.
+7. Employ software engineering measurement processes. 
